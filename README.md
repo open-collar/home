@@ -1,5 +1,4 @@
-![Open Collar](./media/opencollar-logo-320x25x32.png) 
-# OpenCollar
+[![Open Collar](./media/opencollar-logo-320x25x32.png)](https://open-collar.github.io/home/)
 
 <table style="border-style: none; width: 100%;">
     <tr style="border-style: none;">
@@ -134,7 +133,7 @@ There are no hard dependencies on tooling, all that is required is the
  * [Coveralls GitHub Action](https://github.com/marketplace/actions/coveralls-github-action)
  * [Badges](https://shields.io/category/build)
 
-# Related Projects
+# Open Source Projects
 
 * [OpenCollar.Azure.ReliableQueue](https://github.com/open-collar/OpenCollar.Azure.ReliableQueue)
 * [OpenCollar.Azure.Storage](https://github.com/open-collar/OpenCollar.Azure.Storage)
