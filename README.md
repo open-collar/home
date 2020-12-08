@@ -3,102 +3,95 @@
 
 <table style="border-style: none; width: 100%;">
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
-        <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions/Build and Deploy"/></a></td>
-        <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions/badge.svg?branch=master"/></a></td>
-        <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions?color=green"/></a></td>
-        <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions?color=green"/></a></td>
-    </tr>
-    <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Azure.ReliableQueue</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Azure.ReliableQueue/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Azure.ReliableQueue/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Azure.ReliableQueue?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Azure.ReliableQueue/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Azure.ReliableQueue/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Azure.ReliableQueue?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Azure.ReliableQueue/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Azure.ReliableQueue?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Azure.Storage</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Azure.Storage/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Azure.Storage/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Azure.Storage?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Azure.Storage/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Azure.Storage/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Azure.Storage?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Azure.Storage/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Azure.Storage?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions</td>
+        <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions/Build and Deploy"/></a></td>
+        <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions/badge.svg?branch=master"/></a></td>
+        <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions?color=green"/></a></td>
+        <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions?color=green"/></a></td>
+    </tr>
+    <tr style="border-style: none;">
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions.ApplicationInsights</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.ApplicationInsights/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.ApplicationInsights/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.ApplicationInsights?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.ApplicationInsights/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.ApplicationInsights/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.ApplicationInsights?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.ApplicationInsights/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.ApplicationInsights?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions.Collections</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.Collections/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.Collections/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.Collections?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.Collections/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.Collections/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.Collections?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.Collections/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.Collections?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions.Configuration</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.Configuration/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.Configuration/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.Configuration?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.Configuration/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.Configuration/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.Configuration?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.Configuration/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.Configuration?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions.Environment</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.Environment/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.Environment/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.Environment?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.Environment/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.Environment/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.Environment?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.Environment/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.Environment?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions.IO</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.IO/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.IO/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.IO?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.IO/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.IO/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.IO?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.IO/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.IO?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions.Logging</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.Logging/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.Logging/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.Logging?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.Logging/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.Logging/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.Logging?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.Logging/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.Logging?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions.Security</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.Security/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.Security/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.Security?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.Security/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.Security/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.Security?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.Security/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.Security?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions.SqlClient</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.SqlClient/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.SqlClient/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.SqlClient?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.SqlClient/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.SqlClient/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.SqlClient?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.SqlClient/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.SqlClient?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions.Threading</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.Threading/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.Threading/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.Threading?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.Threading/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.Threading/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.Threading?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.Threading/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.Threading?color=green"/></a></td>
     </tr>
     <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
+        <td style="width: 20%; border-style: none;">OpenCollar.Extensions.Validation</td>
         <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.Validation/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.Validation/Build and Deploy"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.Validation?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.Validation/badge.svg?branch=master"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.Validation/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.Validation?color=green"/></a></td>
         <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.Validation/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.Validation?color=green"/></a></td>
-    </tr>
-    <tr style="border-style: none;">
-        <td style="width: 20%; border-style: none;">Latest Build:</td>
-        <td style="width: 20%; border-style: none;"><a href="https://github.com/open-collar/OpenCollar.Extensions.SqlClient/actions"><img src="https://img.shields.io/github/workflow/status/open-collar/OpenCollar.Extensions.SqlClient/Build and Deploy"/></a></td>
-        <td style="width: 20%; border-style: none;"><a href="https://coveralls.io/github/open-collar/OpenCollar.Extensions.SqlClient?branch=master"><img src="https://coveralls.io/repos/github/open-collar/OpenCollar.Extensions.SqlClient/badge.svg?branch=master"/></a></td>
-        <td style="width: 20%; border-style: none;"><a href="https://www.nuget.org/packages/OpenCollar.Extensions.SqlClient/"><img src="https://img.shields.io/nuget/vpre/OpenCollar.Extensions.SqlClient?color=green"/></a></td>
-        <td style="width: 20%; border-style: none;"><a href="https://open-collar.github.io/OpenCollar.Extensions.SqlClient/articles/intro.html"><img src="https://img.shields.io/nuget/dt/OpenCollar.Extensions.SqlClient?color=green"/></a></td>
     </tr>
 </table>
 
